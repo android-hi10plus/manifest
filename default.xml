@@ -10,6 +10,9 @@
   <remote  name="github"
            fetch="https://github.com/projectceladon/" />
 
+  <remote  name="android-hi10plus"
+           fetch="https://github.com/android-hi10plus/" />
+
   <remote name="kernelorg" fetch="https://git.kernel.org/" />
 
   <remote  name="graphics"
